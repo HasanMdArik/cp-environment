@@ -1,0 +1,17 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore binary, out and exe files and non-necessary directories
+*.exe
+*.bin
+*.out
+.idea/*
+.vscode/settings.json
+.cph/
+
